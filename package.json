@@ -1,0 +1,7 @@
+{
+    "name": "funapi",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
